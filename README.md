@@ -5,9 +5,9 @@
 
 A React JS-based web application that tracks real-time cryptocurrency prices in **USD**, **INR**, and **EUR**. The app fetches live data using a public API and presents a responsive and user-friendly interface for monitoring top cryptocurrencies.
 ## Live Demo
- 
- Comming soon
- ## Features
+ https://coinaudit.netlify.app/
+
+## Features
 
 - 📈 Real-time price tracking for major cryptocurrencies
 
